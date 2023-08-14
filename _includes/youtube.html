@@ -1,0 +1,23 @@
+<div class="embed-container">
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/{{ include.id }}" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
+<style>
+.embed-container {
+  position: relative;
+  padding-bottom: 40.5%;
+  height: 0;
+  overflow: hidden;
+  max-width: 80%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 80%;
+}
+</style>

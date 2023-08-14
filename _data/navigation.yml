@@ -1,0 +1,24 @@
+# main links
+main:
+  - title: "Research"
+    url: /research/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Outreach & Press"
+    url: /outreach-press/
+  - title: Mentoring
+    sublinks:
+      - title: "Undergrad Mentoring"
+        url: /undergrad-mentoring/
+      - title: "Grad Mentoring"
+        url: /grad-mentoring/
+      - title: "Doctoral Mentoring"
+        url: /doctoral-scholars-mentoring/
+  - title: "Tools & Resources"
+    url: /tools-resources/
+  - title: "Available Positions"
+    url: /positions/
