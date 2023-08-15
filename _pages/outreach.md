@@ -11,7 +11,6 @@ permalink: /outreach-press/
 </div>
 
 **Brett presented his work at ASPB meeting**
-
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
 
