@@ -25,7 +25,7 @@ carousels:
 ---
 
 
-Dr. Wijeratne has taught a variety of courses. Most of these courses focus on molecular biology and bioinformatics.  Dr. Wijeratne integrate active, inquiry-based learning into the classroom. Below are list of courses:
+I have taught a variety of courses. Most of these courses focus on molecular biology and bioinformatics.  Dr. Wijeratne integrate active, inquiry-based learning into the classroom. Below are list of courses:
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
   <div style="color: white; font-size: 32px; font-weight: bold;">Courses at Arkansas State University</div>

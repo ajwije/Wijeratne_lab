@@ -93,7 +93,7 @@ ____
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to <a href="https://twitter.com/thivanka3?ref_src=twsrc%5Etfw">@thivanka3</a> on successfully defending his Master&#39;s Thesis today. You did an excellent job! <br>Also, thank you very much for his excellent committee: Drs. Sudeepa Bhattacharyya, Jason Causey, and @AgShew. <a href="https://twitter.com/hashtag/AcademicTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicTwitter</a> <a href="https://twitter.com/hashtag/graduates?src=hash&amp;ref_src=twsrc%5Etfw">#graduates</a> <a href="https://t.co/HyAiBxGhLj">pic.twitter.com/HyAiBxGhLj</a></p>&mdash; Asela Wijeratne (@asela_1) <a href="https://twitter.com/asela_1/status/1555012095795675136?ref_src=twsrc%5Etfw">August 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**ASPB meeting 2022 in beautify Portland OR.**
+**ASPB meeting 2022 in beautiful Portland OR.**
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
 
