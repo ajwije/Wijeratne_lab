@@ -62,4 +62,4 @@ I am excited to work with you in my research group and take my role as a mentor 
 - **Attend and actively participate in all group meetings.** We meet weekly. Be prepared for each meeting. Be engaged and ask scientific questions. If you are presenting, have your slides organized and practice ahead of time.
 
 ## Vacation
-Aside from university holidays, each person is given 4 weeks of vacation a year. Let me know when you are planning on going on vacation so I am not expecting to hear from you. Let me know ahead of time if you will be going on vacation. I need to know three weeks in advance of a one-week vacation, and longer if you plan on taking all your vacation at once. You are responsible for organizing the care of your experiments, and plants. Graduate students do not get summers off or spring break off (this will be part of your vacation allotment).
+Aside from university holidays, each person is given 4 weeks of vacation a year. Let me know when you are planning on going on vacation so I am not expecting to hear from you.

@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/images/AJW_icon.png
     alt: "research"
     title: "Research"
-    excerpt: "Our research primarily focuses on understanding the interactions between soybean and Phytophthora sojae, with the aim of discovering innovative approaches to effectively reduce crop losses caused by plant pathogens. See [here](/research/) for a description of our research."
+    excerpt: "Our research primarily focuses on understanding the interactions between soybean and _Phytophthora sojae_, with the aim of discovering innovative approaches to effectively reduce crop losses caused by plant pathogens. See [here](/research/) for a description of our research."
   - image_path: /assets/images/front-research.png
     alt: "People"
     title: "People"

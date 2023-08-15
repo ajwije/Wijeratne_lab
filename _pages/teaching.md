@@ -116,7 +116,7 @@ __________
 
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
-  <div style="color: white; font-size: 32px; font-weight: bold;">Courses at Courses at Ohio State University</div>
+  <div style="color: white; font-size: 32px; font-weight: bold;">Courses at the Ohio State University</div>
 </div>
 
 - **Methods in Horticulture and Crop Science**: a Graduate level course on Analyzing RNA-seq data from a RIL population at the Ohio State University (Fall, 2015) (Co-taught with Leah McHale, Ph.D.).

@@ -10,6 +10,14 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2023</div>
 </div>
 
+**Brett presented his work at ASPB meeting**
+
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+![image](/assets/images/Lab_news/23_ASPB_brett.jpg)
+
+
 **Lunch with the lab group Summer 2023!**
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
