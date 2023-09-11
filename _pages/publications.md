@@ -16,8 +16,9 @@ _Italic text_ indicates Wijeratne lab undergraduate reseracher
   <div style="color: white; font-size: 32px; font-weight: bold;">2023</div>
 </div>
 
+**Matthews, A.E.**, T.J. Boves, A.D. Sweet, E.M. Ames, L.P. Bulluck, E.I. Johnson, M. Johnson, S.E. Lipshutz, K.L. Percy, D.W. Raybuck, W.M. Schelsky, C.M. Tonra, C.B. Viverette, and **A.J. Wijeratne**. 2023. Novel insights into symbiont population structure: globe-trotting avian feather mites contradict the specialist-generalist variation hypothesis. _Molecular Ecology_. doi: 10.1111/mec.17115
 
-**Hale, Brett**, E. Brown, and **A.J. Wijeratne**. 2023. An updated assessment of the soybean–_Phytophthora sojae_ pathosystem. Plant Pathology. doi: 10.1111/ppa.13377
+**Hale, Brett**, E. Brown, and **A.J. Wijeratne**. 2023. An updated assessment of the soybean–_Phytophthora sojae_ pathosystem. _Plant Pathology_. doi: 10.1111/ppa.13377
 
 **Hale, Brett**, **S. Ratnayake**, **A. Flory**, R. Wijeratne, C. Schmidt, A.E. Robertson, and **A.J. Wijeratne**. 2023. Gene regulatory network inference in soybean upon infection by _Phytophthora sojae_. _Plos One_. 18(7):e0287590. doi: 10.1371/journal.pone.0287590
 
@@ -25,7 +26,7 @@ Irafasha, G., S. Mutinda, F.M. Mobegi, **Brett Hale**, G. Omwenga, **A.J. Wijera
 
 **Matthews, A.E., A.J. Wijeratne**, A.D. Sweet, F.A. Hernandes, D.P.L. Toews, and T.J. Boves. 2023. Dispersal-limited symbionts exhibit unexpectedly wide variation in host specificity. Systematic Biology. doi: 10.1093/sysbio/syad014
 
-**Matthews, A.E., T.J Boves**, K.L Percy, and **A.J Wijeratne**. 2023. Draft genome sequencing data of a feather mite, _Amerodectes protonotaria_ Hernandes 2018 (Acariformes: Proctophyllodidae). Data in Brief. 46:108835. doi: 10.1016/j.dib.2022.108835
+**Matthews, A.E., T.J Boves**, K.L Percy, and **A.J Wijeratne**. 2023. Draft genome sequencing data of a feather mite, _Amerodectes protonotaria_ Hernandes 2018 (Acariformes: Proctophyllodidae). _Data in Brief__. 46:108835. doi: 10.1016/j.dib.2022.108835
 
 Mutinda, S., F.M Mobegi, **Brett Hale**, O Dayou, E Ateka, **A.J Wijeratne**, S Wicke, E.S Bellis, and S Runo. 2023. Resolving intergenotypic Striga resistance in sorghum._Journal of Experimental Botany_. erad2
 
@@ -62,7 +63,6 @@ Thomas, G.W.C., E. Dohmen, D.S.T. Hughes, S.C. Murali, M. Poelchau, K. Glastad, 
   <div style="color: white; font-size: 32px; font-weight: bold;">2019</div>
 </div>
 
-Here is the formatted text using the above example:
 
 Milutinovic, M., B.E. Lindsey III, **A.J. Wijeratne**, J.M. Hernandez, N. Grotewold, V. Fernández, E. Grotewold, and J. Brkljacic. 2019. Arabidopsis EMSY-like (EML) histone readers are necessary for post-fertilization seed development, but prevent fertilization-independent seed formation. _Plant Science_. 285:99–109.
 

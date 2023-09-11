@@ -12,7 +12,7 @@ show_excerpts: true
 
 ### [**Asela Wijeratne**](https://www.astate.edu/college/sciences-and-mathematics/departments/biology/faculty-staff/people-details.dot?pid=25affbe3-c7ef-4895-a54a-5f55821dd556)
 
-- Assistant Professor of Bioinformatics, [Arkansas State University](https://www.astate.edu/)
+- Associate Professor of Bioinformatics, [Arkansas State University](https://www.astate.edu/)
 - Affiliated faculty member, [Molecular Biosciences Graduate Program](https://www.astate.edu/college/sciences-and-mathematics/doctoral-programs/molecular-biosciences/faculty-staff/)  
 - Affiliated faculty member, [Center for No-Boundary Thinking, Arkansas State University](https://www.astate.edu/a/cnbt/files/cnbt-biosys)
 
