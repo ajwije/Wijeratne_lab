@@ -10,6 +10,18 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2023</div>
 </div>
 
+**Adding another feather (No pun intended) to Alix's stellar grad student journey!! Thrilled to be a part of it!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBovesLabAState%2Fposts%2Fpfbid0L91dWxicUr5nhRYTzsGa8ZeEeWQa5zYVBNbN3PbPvTa1MoKnPSCfUCycKSuok4pSl&show_text=true&width=500" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+**Alix won best student presentation award at the American Ornithological Society/Society of Canadian Ornithologists meeting in London, Ontario.**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D758017249577762%26set%3Da.191754786204014%26type%3D3&show_text=true&width=500" width="500" height="683" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 **Brett presented his work at ASPB meeting**
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
@@ -23,9 +35,10 @@ permalink: /outreach-press/
 
 ![image](/assets/images/Lab_news/IMG_6259.jpg)
 
-**Asela gets tenure.**
+**[Asela gets tenure](https://www.astate.edu/news/faculty-promotions-and-tenure-appointments-approved-by-board)**
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
+
 
 
 **A fantastic effort by Steven Runo's groups - two wonderful back to back publications. We are extremely glad to be part of this work.**
