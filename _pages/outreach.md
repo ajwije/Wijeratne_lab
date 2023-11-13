@@ -10,6 +10,24 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2023</div>
 </div>
 
+
+**Brett and Kipa presented their work at  ABI Annual symposium and Agri-Food Innovation Summit Research Event**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+<figure class="half">
+ 
+
+  <a href="/assets/images/Lab_news/23_kipa_agrilife.png">
+  <img src="/assets/images/Lab_news/23_kipa_agrilife.png"></a>
+
+  <a href="/assets/images/Lab_news/23_brett_ABI.jpg">
+  <img src="/assets/images/Lab_news/23_brett_ABI.jpg"></a>
+
+  <figcaption></figcaption>
+</figure>
+
+
 **Adding another feather (No pun intended) to Alix's stellar grad student journey!! Thrilled to be a part of it!**
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
