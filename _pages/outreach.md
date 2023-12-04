@@ -10,6 +10,12 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2023</div>
 </div>
 
+**Congratulations, Dr. Bretton Hale, who successfully defended his dissertation today! Extremely proud of his extraordinary achievements and fortunate to have him in my lab.** 
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+![image](/assets/images/Lab_news/Brett_defense.png)
+
 
 **Brett and Kipa presented their work at  ABI Annual symposium and Agri-Food Innovation Summit Research Event**
 {: style="text-align: center; font-size:1.75em; color: black"}
@@ -92,7 +98,6 @@ permalink: /outreach-press/
 **Brett's review paper is published.**
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Phytophthora sojae, is a serious <a href="https://twitter.com/hashtag/soybean?src=hash&amp;ref_src=twsrc%5Etfw">#soybean</a> <a href="https://twitter.com/hashtag/disease?src=hash&amp;ref_src=twsrc%5Etfw">#disease</a> causing <a href="https://twitter.com/hashtag/root?src=hash&amp;ref_src=twsrc%5Etfw">#root</a> and stem rot - review with emphasis on host–<a href="https://twitter.com/hashtag/pathogen?src=hash&amp;ref_src=twsrc%5Etfw">#pathogen</a> coevolution and host <a href="https://twitter.com/hashtag/resistance?src=hash&amp;ref_src=twsrc%5Etfw">#resistance</a> in <a href="https://twitter.com/BSPPjournals?ref_src=twsrc%5Etfw">@BSPPjournals</a> by <a href="https://twitter.com/elaHtterB?ref_src=twsrc%5Etfw">@elaHtterB</a>, Edward Brown and <a href="https://twitter.com/asela_1?ref_src=twsrc%5Etfw">@asela_1</a> - <a href="https://t.co/4c2AG3hnIa">https://t.co/4c2AG3hnIa</a> <a href="https://t.co/p52l67l6Tc">pic.twitter.com/p52l67l6Tc</a></p>&mdash; Pestinfo Wiki (@PestinfoW) <a href="https://twitter.com/PestinfoW/status/1656968503293771779?ref_src=twsrc%5Etfw">May 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
