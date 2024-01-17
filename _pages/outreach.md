@@ -10,6 +10,11 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2023</div>
 </div>
 
+**Big cheers to Kipa Tamrakar! She successfully completed her thesis proposal defense today. Super proud of her!** 
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7141198926610628608" height="392" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 **Congratulations, Dr. Bretton Hale, who successfully defended his dissertation today! Extremely proud of his extraordinary achievements and fortunate to have him in my lab.** 
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
