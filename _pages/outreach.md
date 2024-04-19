@@ -10,6 +10,19 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2024</div>
 </div>
 
+**Super proud of my students who showcased their work at Create@State 2024**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+![image](/assets/images/Lab_news/24_createstate/create_astate.jpg)
+
+**Kudos to Emilio Soriano Chavez and Sachleen Singh for their outstanding posters at the 10th Annual Conference of the Arkansas Bioinformatics Consortium (AR-BIC). Also, congratulations to Emilio for winning first place in the poster competition (undergraduate category). I am really proud of you!!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7168435182218166272" height="407" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
 **Congratulations to Dr. Alix Matthews, who successfully defended her dissertation! I am immensely proud of her exceptional accomplishments , and am privileged to have been a part of her remarkable journey.** 
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
