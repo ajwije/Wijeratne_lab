@@ -10,6 +10,14 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2024</div>
 </div>
 
+**Kudos to Dr. Alix Matthews for winning the Beck College’s Outstanding Ph.D. Student in Molecular Biosciences award. We are really proud of you, Alix!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+![image](/assets/images/Lab_news/2024_alix_MBS.jpeg)
+
+
+
 **Super proud of my students who showcased their work at Create@State 2024**
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
