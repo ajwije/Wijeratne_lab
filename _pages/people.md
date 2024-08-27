@@ -46,6 +46,8 @@ show_excerpts: true
 | ------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Shyaron Poudel** (Master's student)       | 2019-2021 | [Researcher In Chemical Biology and Therapeutics Researcher In Chemical Biology and Therapeutics at St. Jude Children's Research Hospital](https://www.linkedin.com/in/shyaron-poudel-m-sc-molecular-biosciences-516b7b177/) |
 | **Sandaruwan Ratnayake** (Master's student) | 2020-2022 | [Computational Research Scientist at Donald Danforth Plant Science Center](https://slotkinlab.github.io/people/)                                                                                                             |
+| **Brett Hale** (PhD student)                | 2020-2024 | [Head Of Research And Development at AgriGro Inc](https://www.linkedin.com/in/bretton-hale-333445b9/) |
+| **Alix Matthews** (PhD student)             | 2019-2024 | [Postdoctoral Research Associate, University at Buffalo](https://www.linkedin.com/in/alixmatthews/) |
 
 ### *Lab Staff*
 
@@ -64,8 +66,12 @@ show_excerpts: true
 | **Krista Henderson** co-supervised with Milad Mohamed                  			   | 2019-2020 | Graduated with BS in Mathematics      																																				 |
 | **Alyssa Nelson**                                                                    | 2019-2020 | Graduated with BS in Biotechnology                                    |
 | **Emilio Soriano Chávez**                                                            | 2020-2020 | Working towards BS in Biotechnology |
-| **James Cromer**                                                                    | 2019-2021 | Completed his MCAT and is planning apply for Physiotherapy School.                                                                                                           |
+| **James Cromer**                                                                     | 2019-2021 | Completed his MCAT and is planning to apply for Physiotherapy School.                                                                                                           |
 | **Hugh Pascoe**                                                                      | 2020-2021 | Graduated with BS in Biotechnology                                                                                                           |
 | **Nathan Stephens**                                                                  | 2019-2019 | High school student in Young Exceptional Scholars Program                                                                                                          |
 | **Caitlin Watts**																	   | 2021-2022 | Pursuing a PhD at the Purdue University                                                                                                                                                          |
-| **Daniel Jackson**                                                                   | 2022-2022 | Completed his MCAT and is planning apply for Med School                  |
+| **Daniel Jackson**                                                                   | 2022-2022 | Med School                  |
+| **Gerson Irel Rodriguez Barela**                                                     | 2023-2024 | Coteava AgroScience                  |
+| **Emilio SorianoChavez**                                                             | 2023-2024 | [Nationwide Children's Hospital](https://www.nationwidechildrens.org/)  |
+| **Daniela Flores**                                                                   | 2023-2024 | Will graduate with BS in Biotechnology in 2024                  |
+| **Daniela Munoz**                                                                    | 2023-2024 | High school student; will graduate in 2025                  |

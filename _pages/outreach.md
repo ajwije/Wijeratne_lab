@@ -10,6 +10,24 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2024</div>
 </div>
 
+**Attending the 2024 Plant Health Congress of the American Phytopathological Society was an excellent experience. It was a pleasure connecting with colleagues and collaborators. I'm especially proud of my students, Winston Miller and Kipa Tamrakar, who did a fantastic job presenting their research. Well done!!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7233934722031054848" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+**We had a wonderful time with the young kids at [Centro Hispano in Jonesboro](https://www.centrohispanoarkansas.com/). Zach did an outstanding job keeping them entertained!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+![image](/assets/images/Lab_news/his_center.jpg)
+
+**Congratulations are in order for two recently minted PhDs: Drs. Alix Matthews and Bretton Hale. Together, they boast an impressive array of accomplishments, with a combined total of 20 peer-reviewed publications. I am immensely proud of both of you. Best wishes for your future endeavors, with Brett assuming the role of Head of Research and Development at AgriGro Inc, and Alix embarking on a journey as a Postdoctoral Fellow at SUNNY-Buffalo.**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7193267303302524931" height="718" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 **Kudos to Dr. Alix Matthews for winning the Beck College’s Outstanding Ph.D. Student in Molecular Biosciences award. We are really proud of you, Alix!**
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}

@@ -10,7 +10,17 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 
 **Bold text** indicates Wijeratne lab [current and former](/people/) Wijeratne Lab members. 
 
-_Italic text_ indicates Wijeratne lab undergraduate reseracher
+_Italic text_ indicates Wijeratne lab undergraduate researchers.
+
+<div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
+  <div style="color: white; font-size: 32px; font-weight: bold;">2024</div>
+</div>
+
+
+**Hale B.**, _Watts C._, Conatser, M., Brown, E., **Wijeratne, A. J.** Fine-scale characterization of the soybean rhizosphere microbiome via synthetic long reads and avidity sequencing. Environ Microbiome. 2024;19.
+
+Alles, M., Gunasena, M., Zia, T., D'Mello A, Bhattarai, S., Mulhern, W., Terry, L., Scherger, T., Wijeratne, S., **Singh, S.**, **Wijeratne A. J.**, Kasturiratna, D., Tettelin, H., Weyand, N. J., Liyanage, N.P.M. Unveiling the immune dynamics of Neisseria persistent oral colonization. Infect Immun. 2024 May 30:e0004824. doi: 10.1128/iai.00048-24. Epub ahead of print. PMID: 38814083
+
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
   <div style="color: white; font-size: 32px; font-weight: bold;">2023</div>
@@ -26,7 +36,7 @@ Irafasha, G., S. Mutinda, F.M. Mobegi, **Brett Hale**, G. Omwenga, **A.J. Wijera
 
 **Matthews, A.E., A.J. Wijeratne**, A.D. Sweet, F.A. Hernandes, D.P.L. Toews, and T.J. Boves. 2023. Dispersal-limited symbionts exhibit unexpectedly wide variation in host specificity. Systematic Biology. doi: 10.1093/sysbio/syad014
 
-**Matthews, A.E., T.J Boves**, K.L Percy, and **A.J Wijeratne**. 2023. Draft genome sequencing data of a feather mite, _Amerodectes protonotaria_ Hernandes 2018 (Acariformes: Proctophyllodidae). _Data in Brief__. 46:108835. doi: 10.1016/j.dib.2022.108835
+**Matthews, A.E.**, T.J Boves, K.L Percy, and **A.J Wijeratne**. 2023. Draft genome sequencing data of a feather mite, _Amerodectes protonotaria_ Hernandes 2018 (Acariformes: Proctophyllodidae). _Data in Brief__. 46:108835. doi: 10.1016/j.dib.2022.108835
 
 Mutinda, S., F.M Mobegi, **Brett Hale**, O Dayou, E Ateka, **A.J Wijeratne**, S Wicke, E.S Bellis, and S Runo. 2023. Resolving intergenotypic Striga resistance in sorghum._Journal of Experimental Botany_. erad2
 
