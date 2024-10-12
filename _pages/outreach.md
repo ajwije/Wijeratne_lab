@@ -10,6 +10,12 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2024</div>
 </div>
 
+**Congratulations, Sachleen Singh, who successfully defended his dissertation proposal today!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAStateMBS%2Fposts%2Fpfbid02252y2GMRR6ucw2FkuZ65eBk6WHtoUtM6wLsYPtzZbVFVCYJjjda7hztiiMAR1tVAl&show_text=true&width=500" width="500" height="554" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 **Attending the 2024 Plant Health Congress of the American Phytopathological Society was an excellent experience. It was a pleasure connecting with colleagues and collaborators. I'm especially proud of my students, Winston Miller and Kipa Tamrakar, who did a fantastic job presenting their research. Well done!!**
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
