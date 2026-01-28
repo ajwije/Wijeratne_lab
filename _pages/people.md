@@ -38,14 +38,6 @@ show_excerpts: true
 </div>
 </section>
 
-# Past Members
-<section class="page__content cf">
- 
-<div class="entries-{{ page.entries_layout }}">
-  {% include people-list.html entries=site.past_members sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
-</div>
-</section>
-
 # Previous Members
 
 ### _Graduate Students_
@@ -56,6 +48,8 @@ show_excerpts: true
 | **Sandaruwan Ratnayake** (Master's student) | 2020-2022 | [Computational Research Scientist at Donald Danforth Plant Science Center](https://slotkinlab.github.io/people/)                                                                                                             |
 | **Brett Hale** (PhD student)                | 2020-2024 | [Head Of Research And Development at AgriGro Inc](https://www.linkedin.com/in/bretton-hale-333445b9/) |
 | **Alix Matthews** (PhD student)             | 2019-2024 | [Postdoctoral Research Associate, University at Buffalo](https://www.linkedin.com/in/alixmatthews/) |
+| **Kipa Tamrakar** (Graduate student)        |           | |
+| [**Winston Miller**](https://www.linkedin.com/in/winston-miller-ba6b271ba/) (Graduate student) |           | |
 
 ### *Lab Staff*
 
