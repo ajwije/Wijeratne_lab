@@ -38,6 +38,14 @@ show_excerpts: true
 </div>
 </section>
 
+# Past Members
+<section class="page__content cf">
+ 
+<div class="entries-{{ page.entries_layout }}">
+  {% include people-list.html entries=site.past_members sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+</div>
+</section>
+
 # Previous Members
 
 ### _Graduate Students_

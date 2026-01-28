@@ -95,6 +95,9 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/
+  past_members:
+    output: true
+    permalink: /past-members/:path/
   grouped_pages:
     output: true
     permalink: /_pages/mentoring/:Mentoring
