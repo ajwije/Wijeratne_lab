@@ -7,6 +7,24 @@ permalink: /outreach-press/
 ---
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
+  <div style="color: white; font-size: 32px; font-weight: bold;">2025</div>
+</div>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7416494267272998914" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7368998814722068483" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7360414649466380289" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7355371665427423233" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7325881097714610176" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7296334598693679105" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7291075311901761536" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
   <div style="color: white; font-size: 32px; font-weight: bold;">2024</div>
 </div>
 
