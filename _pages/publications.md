@@ -13,13 +13,32 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 _Italic text_ indicates Wijeratne lab undergraduate researchers.
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
+  <div style="color: white; font-size: 32px; font-weight: bold;">2026</div>
+</div>
+
+**Tamrakar, K.**, **Hale, B.**, _Chavez, E.S._, Williams, N., Brown, E., Mangan, S., and **Wijeratne, A. J.** Integrated Multi-Omics Analysis Provides Insights into the Rhizosphere Microbial Dynamics in Soybean – Fusarium virguliforme Interaction. _Molecular Plant-Microbe Interactions_. (Manuscript accepted).
+(By integrating full-length 16S/ITS sequencing with metatranscriptomic profiling, it revealed a novel host-microbiome response in SDS-tolerant soybean; showed that pathogen challenge triggers selective recruitment of biocontrol and growth-promoting microbes, while suppressing Bradyrhizobium activity, highlighting a signaling-mediated mechanism of disease resilience.)
+
+<div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
+  <div style="color: white; font-size: 32px; font-weight: bold;">2025</div>
+</div>
+
+**Tamrakar, K.**, Miller, P.W., Dolan, M.C., and **Wijeratne, A. J.** Assessment of rhizosphere microbial activity using optimized RNA extraction coupled with universal ribosomal RNA depletion techniques. _BMC Methods_. 2025;2(1):7. 
+  (Established a robust, cost-effective metatranscriptomic pipeline to resolve long-standing barriers in RNA extraction through tailored buffer chemistry and applied domain-agnostic rRNA depletion to simultaneously capture prokaryotic and eukaryotic transcriptomes, yielding high-quality RNA and revealing metabolically active rhizosphere communities.)
+**Matthews, A.E.**, Trevelline, B.K., **Wijeratne, A. J.**, and Boves, T.J. Picky eaters: Selective microbial diet of avian ectosymbionts. J Anim Ecol. 2025; 94(4):466–481. 
+  (Showed how host-associated microbes selectively process environmental resources, providing analogs for understanding niche-driven microbial dynamics.)
+Barminga, D., Mutinda, S., Mobegi, F.M., Kibet, W., **Hale, B.**, Anami, S., **Wijeratne, A. J.**, Bellis, E.S., and Runo, S. Cell wall dynamics in the parasitic plant (Striga) and rice pathosystem. Mol Plant Microbe Interact. 2025; 38(2):285–296. 
+  (Illustrated how Striga manipulates host cell wall architecture, offering mechanistic clues relevant to plant–pathogen interaction studies.)
+
+
+<div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
   <div style="color: white; font-size: 32px; font-weight: bold;">2024</div>
 </div>
 
 
-**Hale B.**, _Watts C._, Conatser, M., Brown, E., **Wijeratne, A. J.** Fine-scale characterization of the soybean rhizosphere microbiome via synthetic long reads and avidity sequencing. Environ Microbiome. 2024;19.
+**Hale B.**, _Watts C._, Conatser, M., Brown, E., **Wijeratne, A. J.** Fine-scale characterization of the soybean rhizosphere microbiome via synthetic long reads and avidity sequencing. _Environ Microbiome_. 2024;19.
 
-Alles, M., Gunasena, M., Zia, T., D'Mello A, Bhattarai, S., Mulhern, W., Terry, L., Scherger, T., Wijeratne, S., **Singh, S.**, **Wijeratne A. J.**, Kasturiratna, D., Tettelin, H., Weyand, N. J., Liyanage, N.P.M. Unveiling the immune dynamics of Neisseria persistent oral colonization. Infect Immun. 2024 May 30:e0004824. doi: 10.1128/iai.00048-24. Epub ahead of print. PMID: 38814083
+Alles, M., Gunasena, M., Zia, T., D'Mello A, Bhattarai, S., Mulhern, W., Terry, L., Scherger, T., Wijeratne, S., **Singh, S.**, **Wijeratne A. J.**, Kasturiratna, D., Tettelin, H., Weyand, N. J., Liyanage, N.P.M. Unveiling the immune dynamics of Neisseria persistent oral colonization. _Infect Immun_. 2024 May 30:e0004824. doi: 10.1128/iai.00048-24. Epub ahead of print. PMID: 38814083
 
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
@@ -34,17 +53,16 @@ Alles, M., Gunasena, M., Zia, T., D'Mello A, Bhattarai, S., Mulhern, W., Terry, 
 
 Irafasha, G., S. Mutinda, F.M. Mobegi, **Brett Hale**, G. Omwenga, **A.J. Wijeratne**, S. Wicke, E.S. Bellis, and S. Runo. 2023. Transcriptome atlas of Striga germination: Implications for managing an intractable parasitic plant. _Plants, People, Planet_. doi: 10.1002/ppp3.10263
 
-**Matthews, A.E., A.J. Wijeratne**, A.D. Sweet, F.A. Hernandes, D.P.L. Toews, and T.J. Boves. 2023. Dispersal-limited symbionts exhibit unexpectedly wide variation in host specificity. Systematic Biology. doi: 10.1093/sysbio/syad014
+**Matthews, A.E.**, **A.J. Wijeratne**, A.D. Sweet, F.A. Hernandes, D.P.L. Toews, and T.J. Boves. 2023. Dispersal-limited symbionts exhibit unexpectedly wide variation in host specificity. _Systematic Biology_. doi: 10.1093/sysbio/syad014
 
-**Matthews, A.E.**, T.J Boves, K.L Percy, and **A.J Wijeratne**. 2023. Draft genome sequencing data of a feather mite, _Amerodectes protonotaria_ Hernandes 2018 (Acariformes: Proctophyllodidae). _Data in Brief__. 46:108835. doi: 10.1016/j.dib.2022.108835
+**Matthews, A.E.**, T.J. Boves, K.L. Percy, and **A.J. Wijeratne**. 2023. Draft genome sequencing data of a feather mite, _Amerodectes protonotaria_ Hernandes 2018 (Acariformes: Proctophyllodidae). _Data in Brief_. 46:108835. doi: 10.1016/j.dib.2022.108835
 
-Mutinda, S., F.M Mobegi, **Brett Hale**, O Dayou, E Ateka, **A.J Wijeratne**, S Wicke, E.S Bellis, and S Runo. 2023. Resolving intergenotypic Striga resistance in sorghum._Journal of Experimental Botany_. erad2
+Mutinda, S., F.M. Mobegi, **Brett Hale**, O. Dayou, E. Ateka, **A.J. Wijeratne**, S. Wicke, E.S. Bellis, and S. Runo. 2023. Resolving intergenotypic Striga resistance in sorghum. _Journal of Experimental Botany_.
 
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
   <div style="color: white; font-size: 32px; font-weight: bold;">2022</div>
 </div>
-
 
 **Matthews, A.E., T.J. Boves**, A.D. Sweet, E.M. Ames, L.P. Bulluck, E.I. Johnson, M. Johnson, et al. 2022. Population genomics of avian feather mites with contrasting host specificities. _Zoosymposia_. 22:47–47.
 
@@ -123,7 +141,7 @@ Arismendi, NL, M Reyes, SA Miller, **AJ Wijeratne**, and R Carrillo. “Amplicep
 
 Broderick, Shaun R, Saranga Wijeratne, **Asela J Wijeratne**, Laura J Chapin, Tea Meulia, and Michelle L Jones. “RNA-Sequencing Reveals Early, Dynamic Transcriptome Changes in the Corollas of Pollinated Petunias.” _BMC Plant Biology_ 14, no. 1 (2014): 1–21.
 
-Lu, Pingli, **Asela J Wijeratne**, Zhengjia Wang, Gregory P Copenhaver, and Hong Ma. “Arabidopsis PTD Is Required for Type I Crossover Formation and Affects Recombination Frequency in Two Different Chromosomal Regions.” _Journal of Genetics and Genomic_s 41, no. 3 (2014): 165–75.
+Lu, Pingli, **Asela J Wijeratne**, Zhengjia Wang, Gregory P Copenhaver, and Hong Ma. “Arabidopsis PTD Is Required for Type I Crossover Formation and Affects Recombination Frequency in Two Different Chromosomal Regions.” _Journal of Genetics and Genomics_ 41, no. 3 (2014): 165–75.
 
 Nimmakayala, Padma, Venkata Lakshmi Abburi, Abhishek Bhandary, Lavanya Abburi, Venkata Gopinath Vajja, Rishi Reddy, Sridhar Malkaram, et al. “Use of VeraCode 384-Plex Assays for Watermelon Diversity Analysis and Integrated Genetic Map of Watermelon with Single Nucleotide Polymorphisms and Simple Sequence Repeats.” _Molecular Breeding_ 34 (2014): 537–48.
 
@@ -147,11 +165,10 @@ Mamidala, Praveen, **Asela J Wijeratne**, Saranga Wijeratne, Therese Poland, Soh
 </div>
 
 DeLay, Bridget, Praveen Mamidala, **Asela Wijeratne**, Saranga Wijeratne, Omprakash Mittapalli, Jian Wang, and William Lamp. “Transcriptome Analysis of the Salivary Glands of Potato Leafhopper, Empoasca Fabae.” _Journal of Insect Physiology_ 58, no. 12 (2012): 1626–34.
-.
 
 Lu, Pingli, Xinwei Han, Ji Qi, Jiange Yang, **Asela J Wijeratne**, Tao Li, and Hong Ma. “Analysis of Arabidopsis Genome-Wide Variations before and after Meiosis and Meiotic Recombination by Resequencing Landsberg Erecta and All Four Products of a Single Meiosis.” _Genome Research_ 22, no. 3 (2012): 508–18.
 
-Mamidala, Praveen, **Asela J Wijeratne**, Saranga Wijeratne, Karl Kornacker, Babu Sudhamalla, Loren J Rivera-Vega, Andrew Hoelmer, Tea Meulia, Susan C Jones, and Omprakash Mittapalli. “RNA-Seq and Molecular Docking Reveal Multi-Level Pesticide Resistance in the Bed Bug.” _BMC Genomics_ 13 (2012): 1–17 10. https://doi.org/10.1093/jxb/erad210.
+Mamidala, Praveen, **Asela J Wijeratne**, Saranga Wijeratne, Karl Kornacker, Babu Sudhamalla, Loren J Rivera-Vega, Andrew Hoelmer, Tea Meulia, Susan C Jones, and Omprakash Mittapalli. “RNA-Seq and Molecular Docking Reveal Multi-Level Pesticide Resistance in the Bed Bug.” _BMC Genomics_ 13 (2012): 1–17.
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
   <div style="color: white; font-size: 32px; font-weight: bold;">2011</div>

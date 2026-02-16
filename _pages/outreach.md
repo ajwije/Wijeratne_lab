@@ -7,10 +7,18 @@ permalink: /outreach-press/
 ---
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
-  <div style="color: white; font-size: 32px; font-weight: bold;">2025</div>
+  <div style="color: white; font-size: 32px; font-weight: bold;">2026</div>
 </div>
 
+**Excited to be in San Diego for the Plant & Animal Genome Conference (hashtag#PAG33)! 🧬🌱
+Our team is sharing new work on soybean genomics, root microbiome dynamics, and network modeling.**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7416494267272998914" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
+  <div style="color: white; font-size: 32px; font-weight: bold;">2025</div>
+</div>
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7368998814722068483" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
