@@ -17,18 +17,24 @@ _Italic text_ indicates Wijeratne lab undergraduate researchers.
 </div>
 
 **Tamrakar, K.**, **Hale, B.**, _Chavez, E.S._, Williams, N., Brown, E., Mangan, S., and **Wijeratne, A. J.** Integrated Multi-Omics Analysis Provides Insights into the Rhizosphere Microbial Dynamics in Soybean – Fusarium virguliforme Interaction. _Molecular Plant-Microbe Interactions_. (Manuscript accepted).
-(By integrating full-length 16S/ITS sequencing with metatranscriptomic profiling, it revealed a novel host-microbiome response in SDS-tolerant soybean; showed that pathogen challenge triggers selective recruitment of biocontrol and growth-promoting microbes, while suppressing Bradyrhizobium activity, highlighting a signaling-mediated mechanism of disease resilience.)
+{: style="margin-bottom: 2px;"}
+<div style="background-color: #f2f2f2; padding: 10px; margin: 1px 0 14px 0; text-align: left; color: blue; font-size: 14px; font-style: italic;">By integrating full-length 16S/ITS sequencing with metatranscriptomic profiling, it revealed a novel host-microbiome response in SDS-tolerant soybean; showed that pathogen challenge triggers selective recruitment of biocontrol and growth-promoting microbes, while suppressing Bradyrhizobium activity, highlighting a signaling-mediated mechanism of disease resilience.</div>
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
   <div style="color: white; font-size: 32px; font-weight: bold;">2025</div>
 </div>
 
 **Tamrakar, K.**, Miller, P.W., Dolan, M.C., and **Wijeratne, A. J.** Assessment of rhizosphere microbial activity using optimized RNA extraction coupled with universal ribosomal RNA depletion techniques. _BMC Methods_. 2025;2(1):7. 
-  (Established a robust, cost-effective metatranscriptomic pipeline to resolve long-standing barriers in RNA extraction through tailored buffer chemistry and applied domain-agnostic rRNA depletion to simultaneously capture prokaryotic and eukaryotic transcriptomes, yielding high-quality RNA and revealing metabolically active rhizosphere communities.)
+{: style="margin-bottom: 2px;"}
+<div style="background-color: #f2f2f2; padding: 10px; margin: 1px 0; text-align: left; color: blue; font-size: 14px; font-style: italic;">Established a robust, cost-effective metatranscriptomic pipeline to resolve long-standing barriers in RNA extraction through tailored buffer chemistry and applied domain-agnostic rRNA depletion to simultaneously capture prokaryotic and eukaryotic transcriptomes, yielding high-quality RNA and revealing metabolically active rhizosphere communities.</div>
+
 **Matthews, A.E.**, Trevelline, B.K., **Wijeratne, A. J.**, and Boves, T.J. Picky eaters: Selective microbial diet of avian ectosymbionts. J Anim Ecol. 2025; 94(4):466–481. 
-  (Showed how host-associated microbes selectively process environmental resources, providing analogs for understanding niche-driven microbial dynamics.)
-Barminga, D., Mutinda, S., Mobegi, F.M., Kibet, W., **Hale, B.**, Anami, S., **Wijeratne, A. J.**, Bellis, E.S., and Runo, S. Cell wall dynamics in the parasitic plant (Striga) and rice pathosystem. Mol Plant Microbe Interact. 2025; 38(2):285–296. 
-  (Illustrated how Striga manipulates host cell wall architecture, offering mechanistic clues relevant to plant–pathogen interaction studies.)
+{: style="margin-bottom: 2px;"}
+<div style="background-color: #f2f2f2; padding: 10px; margin: 1px 0; text-align: left; color: blue; font-size: 14px; font-style: italic;">Showed how host-associated microbes selectively process environmental resources, providing analogs for understanding niche-driven microbial dynamics.</div>
+
+Barminga, D., Mutinda, S., Mobegi, F.M., Kibet, W., **Hale, B.**, Anami, S., **Wijeratne, A. J.**, Bellis, E.S., and Runo, S. Cell wall dynamics in the parasitic plant (Striga) and rice pathosystem. Mol Plant Microbe Interact. 2025; 38(2):285–296.
+{: style="margin-bottom: 5px;"}
+<div style="background-color: #f2f2f2; padding: 10px; margin: 1px 0 14px 0; text-align: left; color: blue; font-size: 14px; font-style: italic;">Illustrated how Striga manipulates host cell wall architecture, offering mechanistic clues relevant to plant–pathogen interaction studies.</div>
 
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
