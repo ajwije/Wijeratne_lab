@@ -10,6 +10,8 @@ main:
     url: /teaching/
   - title: "Outreach & Press"
     url: /outreach-press/
+  - title: "Blog"
+    url: /blog/
   - title: Mentoring
     sublinks:
       - title: "Undergrad Mentoring"
