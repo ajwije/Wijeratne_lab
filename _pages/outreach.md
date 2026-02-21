@@ -10,25 +10,56 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2026</div>
 </div>
 
-**Excited to be in San Diego for the Plant & Animal Genome Conference (hashtag#PAG33)! 🧬🌱
+**Excited to be in San Diego for the Plant & Animal Genome Conference (PAG33)! 🧬🌱
 Our team is sharing new work on soybean genomics, root microbiome dynamics, and network modeling.**
 {: style="text-align: center; font-size:1.75em; color: black"}
 {: .notice--info}
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7416494267272998914" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
   <div style="color: white; font-size: 32px; font-weight: bold;">2025</div>
 </div>
 
+**Another excellent poster presentation by my graduate student, Sachini Lakshika!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7376695159121670145" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+**The Ripple Effect of Mentorship: Celebrating Dr. Hong Ma's birthday!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7368998814722068483" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+**Celebrating Kipa Tamrakar's graduation**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7360414649466380289" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+**Proud of the Team: Presenting Our Latest Soybean Research at UW-Madison.**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7355371665427423233" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+**🚀 Biotech Meets Business!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7325881097714610176" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+**Big cheers for my student, Kipa Tamrakar! 🎉 She successfully defended her thesis today, and I couldn’t be prouder of her hard work and dedication!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7296334598693679105" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+**Very proud of my undergraduate student, Zach Rikard, for presenting at the Arkansas STEM Posters @ the Capitol event!**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7291075311901761536" height="711" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
