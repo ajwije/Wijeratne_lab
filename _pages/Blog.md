@@ -6,7 +6,14 @@ description:
 permalink: /blog/
 ---
 
-From high-throughput NGS analysis to the intricacies of multi-omics integration, this space is dedicated to the technical and strategic side of computational biology. As a researcher and mentor with two decades of experience leading multidisciplinary teams, I write about the practical applications of machine learning in genomics and the lessons learned from managing high-impact research programs
+From high-throughput NGS analysis to the intricacies of multi-omics integration, this space is dedicated to the technical and strategic side of computational biology. As a researcher and mentor with two decades of experience leading multidisciplinary teams, I write about the practical applications of machine learning in genomics and the lessons learned from managing high-impact research programs.
+
+
+<div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
+  <div style="color: white; font-size: 32px; font-weight: bold;">I Built a Meiosis Classifier in 2018. It Was Wrong</div>
+</div>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7436448156806029312" height="1412" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 <div style="background-color: black; display: flex; justify-content: center; align-items: center; padding: 10px;">
