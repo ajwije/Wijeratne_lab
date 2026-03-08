@@ -13,6 +13,10 @@ From high-throughput NGS analysis to the intricacies of multi-omics integration,
   <div style="color: white; font-size: 32px; font-weight: bold;">I Built a Meiosis Classifier in 2018. It Was Wrong</div>
 </div>
 
+<div style="background-color: #e6f2ff; border-left: 4px solid #1a73e8; padding: 10px 12px; margin: 10px 0;">
+  <a href="https://medium.com/@asela_1/i-built-a-meiosis-classifier-in-2018-it-was-wrong-0d99e7279476" target="_blank" rel="noopener" style="color: #1a73e8; font-weight: 600; text-decoration: none;">Read on Medium</a>
+</div>
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7436448156806029312" height="1412" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
