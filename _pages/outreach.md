@@ -10,6 +10,12 @@ permalink: /outreach-press/
   <div style="color: white; font-size: 32px; font-weight: bold;">2026</div>
 </div>
 
+**Angela Priest, Founder & COO of Alma.Me, and a 20-year hiring manager, walked our graduate and undergraduate students through what really happens after you hit "submit"**
+{: style="text-align: center; font-size:1.75em; color: black"}
+{: .notice--info}
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7440751916948828162?collapsed=1" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 **Excited to be in San Diego for the Plant & Animal Genome Conference (PAG33)! 🧬🌱
 Our team is sharing new work on soybean genomics, root microbiome dynamics, and network modeling.**
 {: style="text-align: center; font-size:1.75em; color: black"}
